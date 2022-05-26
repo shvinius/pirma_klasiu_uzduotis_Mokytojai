@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulius\\Documents\\VZ programavimas\\C sharp\\penkta pamoka klase\\1 uzduotis Mokytojai\\Mokytojai\\Mokytojai.csproj",
-      "projectName": "Mokytojai",
-      "projectPath": "C:\\Users\\Paulius\\Documents\\VZ programavimas\\C sharp\\penkta pamoka klase\\1 uzduotis Mokytojai\\Mokytojai\\Mokytojai.csproj",
+      "projectUniqueName": "C:\\Users\\Paulius\\Documents\\VZ programavimas\\C sharp\\penkta pamoka klase\\1 uzduotis Mokytojai\\Mokytojai\\MokytojoKlasesObjektas.csproj",
+      "projectName": "MokytojoKlasesObjektas",
+      "projectPath": "C:\\Users\\Paulius\\Documents\\VZ programavimas\\C sharp\\penkta pamoka klase\\1 uzduotis Mokytojai\\Mokytojai\\MokytojoKlasesObjektas.csproj",
       "packagesPath": "C:\\Users\\Paulius\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Paulius\\Documents\\VZ programavimas\\C sharp\\penkta pamoka klase\\1 uzduotis Mokytojai\\Mokytojai\\obj\\",
       "projectStyle": "PackageReference",
